@@ -16,7 +16,7 @@ const animeList = [
     genre: 'Экшен, Драма', 
     year: 2013, 
     rating: 9.1, 
-    imagePath: 'assets/images/anime2.jpg'
+    imagePath: 'assets/img/anime2.jpg'
   ),
   Anime(
     title: 'Naruto', 
@@ -24,7 +24,7 @@ const animeList = [
     genre: 'Экшен, Приключения', 
     year: 2002, 
     rating: 8.3, 
-    imagePath: 'assets/images/anime3.jpg'
+    imagePath: 'assets/img/anime3.jpg'
   ),
   Anime(
     title: 'One Piece', 
@@ -32,7 +32,7 @@ const animeList = [
     genre: 'Приключения, Комедия', 
     year: 1999, 
     rating: 8.9, 
-    imagePath: 'assets/images/anime4.jpg'
+    imagePath: 'assets/img/anime4.jpg'
   ),
   Anime(
     title: 'Demon Slayer',
@@ -40,7 +40,7 @@ const animeList = [
     genre: 'Экшен, Фэнтези',
     year: 2019,
     rating: 8.7, 
-    imagePath: 'assets/images/anime5.jpg',
+    imagePath: 'assets/img/anime5.jpg',
   ),
   Anime(
     title: 'My Hero Academia',
@@ -48,7 +48,7 @@ const animeList = [
     genre: 'Экшен, Супергерои',
     year: 2016,
     rating: 8.4,
-    imagePath: 'assets/images/anime6.jpg',
+    imagePath: 'assets/img/anime6.jpg',
 
   ),
   Anime(
@@ -57,7 +57,7 @@ const animeList = [
     genre: 'Фэнтези, Приключения',
     year: 2012,
     rating: 7.7, 
-    imagePath: 'assets/images/anime7.jpg',
+    imagePath: 'assets/img/anime7.jpg',
   ),
   Anime(
     title: 'Fullmetal Alchemist: Brotherhood',
@@ -65,7 +65,7 @@ const animeList = [
     genre: 'Экшен, Фэнтези',
     year: 2009,
     rating: 9.1,
-    imagePath: 'assets/images/anime8.jpg',
+    imagePath: 'assets/img/anime8.jpg',
   ),
   Anime(
     title: 'Tokyo Ghoul',
@@ -73,7 +73,7 @@ const animeList = [
     genre: 'Ужасы, Экшен',
     year: 2014,
     rating: 7.9,
-    imagePath: 'assets/images/anime9.jpg',
+    imagePath: 'assets/img/anime9.jpg',
   ),
   Anime(
     title: 'Steins;Gate',
@@ -81,6 +81,6 @@ const animeList = [
     genre: 'Sci-Fi, Триллер',
     year: 2011,
     rating: 9.1,
-    imagePath: 'assets/images/anime10.jpg',
+    imagePath: 'assets/img/anime10.jpg',
   ),
 ];
